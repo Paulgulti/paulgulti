@@ -1,7 +1,6 @@
 ## Hi there 👋
 ✅ Certified front-end web developer 🤫  
 🔭 Curious about the universe  
-😷 Playground of imposter syndrome  
 <!--
 **Paulgulti/paulgulti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
