@@ -2,7 +2,7 @@
 <h3 align="center">✅ Certified front-end web developer</h1>  
 🔭 Curious about the universe  
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" /></a></p>
+<p align="left"><a><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a></p>
 
 <!--
 **Paulgulti/paulgulti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
