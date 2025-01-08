@@ -1,6 +1,7 @@
 ## Hi there 👋
-✅ Certified front-end web developer 🤫  
+<h1>✅ Certified front-end web developer</h1>  
 🔭 Curious about the universe  
+<h3 align="left">Languages and Tools:</h3>
 <!--
 **Paulgulti/paulgulti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
