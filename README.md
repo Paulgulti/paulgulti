@@ -1,5 +1,5 @@
-## Hi there 👋
-<h1>✅ Certified front-end web developer</h1>  
+<h1 align="center">Hi, I am Paul 👋</h1>
+<h3 align="left">✅ Certified front-end web developer</h1>  
 🔭 Curious about the universe  
 <h3 align="left">Languages and Tools:</h3>
 <!--
