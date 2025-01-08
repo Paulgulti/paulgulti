@@ -2,7 +2,7 @@
 <h3 align="center">✅ Certified front-end web developer</h1>  
 🔭 Curious about the universe  
 <h3 align="left">Languages and Tools:</h3>
-📫 How to reach me [paulgulti20@gmail.com]
+📫 How to reach me (paulgulti20@gmail.com)
 
 <!--
 **Paulgulti/paulgulti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
