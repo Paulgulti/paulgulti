@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Next Js**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-paulgultis-projects.vercel.app/](https://my-portfolio-paulgultis-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [paulgulti.vercel.app](https://paulgulti.vercel.app)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **paulgulti20@gmail.com**
 
